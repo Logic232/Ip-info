@@ -9,9 +9,9 @@ with this tool, you can locate someone  even with the coordinates from IP addres
 ```
 >git clone https://github.com/Logic232/Ipinfogather
 
->>cd Ipinfogather
+>cd Ipinfogather
 
->>python3 Ipinfogather.py
+>python3 Ipinfogather.py
 ```
 # Having Issues? 🔎 
 If you have any issues with this  tool or you notice a bug in the tool.
