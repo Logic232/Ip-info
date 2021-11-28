@@ -1,8 +1,6 @@
 import urllib.request
 import json
 
-print("\t       [•]IP Information[•] ")
-
 print("""\033[1;36;40m 
 		            
 		
